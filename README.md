@@ -5,3 +5,4 @@ This project leverages machine learning to anticipate and classify customer chur
 
 PROJECT-2 : SMS CLASSIFIER
 
+The SMS Classifier project is designed to distinguish between spam and non-spam (ham) messages in SMS texts. By using machine learning algorithms, the model learns patterns and characteristics of spam messages to make accurate predictions. The project involves data preprocessing, feature extraction, and the implementation of classification algorithms. The SMS Classifier is particularly relevant for addressing the challenge of identifying and filtering out unwanted messages in real-world communication channels. It offers practical insights into text classification and the application of machine learning in spam detection.
